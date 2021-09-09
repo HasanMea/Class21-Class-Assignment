@@ -1,0 +1,27 @@
+.hi-50{
+    height: 580px;
+}
+
+.carousel-caption {
+    top: 40%;
+}
+
+.bg-custom{
+    background: #f8f9fa;
+}
+
+.w-custom {
+    width: 130px;
+}
+
+p{
+    font-size: 18px;
+}
+
+.p-bottom{
+    padding-bottom: 0 !important;
+}
+
+.p-top{
+    padding-top: 0 !important;
+}
